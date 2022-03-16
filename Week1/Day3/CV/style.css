@@ -1,0 +1,30 @@
+* {
+    font-family: cursive;
+}
+
+.name {
+    text-transform: uppercase;
+    font-size: xx-large;
+}
+
+span {
+    font-weight: bold;
+}
+
+.job {
+    font-size: x-large;
+}
+
+i {
+    color: red;
+}
+
+img {
+    height: 250px;
+    width: 198px;
+}
+.top {
+    display:flex;
+    justify-content: space-between;
+    padding: 50px;
+}

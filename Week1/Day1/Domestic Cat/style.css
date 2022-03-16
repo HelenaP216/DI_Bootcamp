@@ -1,0 +1,51 @@
+spam {
+    background-color: yellow;
+}
+
+.senses {
+    margin-left:50px;
+}
+
+.senses > p {
+    font-size: large;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+#senses {
+    margin-left:50px;
+}
+
+.CatMedia {
+    text-align: center;
+}
+
+
+img {
+    width: 600px;
+    border: orange solid 10px;
+    margin: 50px;
+}
+
+table {
+    margin-left:auto;
+    margin-right:auto;
+    empty-cells: show;
+}
+
+th, td {
+    border: 1px solid;
+}
+
+.top {
+    color: red;
+    border: red solid 1px;
+}
+
+.blank {
+    visibility: hidden; 
+}
+
+.cell > td {
+    padding: 15px 5px;
+}
