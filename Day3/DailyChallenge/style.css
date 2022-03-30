@@ -1,0 +1,36 @@
+div {
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    color: red;
+    text-shadow: 2px 3px white;
+    width: 40vh;
+    margin: 30px auto 0px auto;
+    height: 8vh;
+}
+
+h1 {
+    margin: 10px auto 10px auto;
+    color: green;
+    text-shadow: 2px 3px white;
+}
+
+input {
+    height: 40vh;
+    width: 70vh;
+    margin: 10px auto 10px auto;
+}
+
+span {
+    height: 10 px;
+    font-size: larger;
+    color: red;
+    margin: 10px auto 10px auto;
+}
+
+body {
+    background-color: #FFEBCD;
+}
